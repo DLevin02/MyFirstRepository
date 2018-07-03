@@ -1,0 +1,28 @@
+.box{
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.square{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  margin: 30px;
+  align-self: center;
+
+}
+
+
+#circle {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background-color: green;
+  align-self: center;
+}
+
+#fireworks {
+  height: 100px;
+  width: 100px;
+}
